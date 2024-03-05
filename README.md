@@ -1,2 +1,2 @@
 # firstTime
-My first Repository
+My first Repository on Github
